@@ -1,5 +1,5 @@
-from PySide2 import QtWidgets,QtCore #For User Interface
-import UI_1 #GUI python file generated from Qt Designer
+from PySide2 import QtWidgets,QtCore  #For User Interface
+import UI_1  #GUI python file generated from Qt Designer
 import os
 from Google import Create_Service #Python file to create service instance
 from googleapiclient import discovery
